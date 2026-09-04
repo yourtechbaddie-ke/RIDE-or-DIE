@@ -3,7 +3,7 @@
 
 **Status:** Canonical production/world-design layer  
 **Follows:** Layer 56 — The People Who Were Saved  
-**Core question:** Who had the authority to decide who was worth saving?
+**Core question:** Who had the authority to decide who was worth saving—and how much could that decision actually control?
 
 ---
 
@@ -17,11 +17,17 @@ Layer 57 introduces the first credible evidence that the Selection System had an
 
 The player does **not** meet the ultimate antagonist here.
 
-Instead, they discover evidence that the system was designed by a human being with a philosophy, priorities, fears and compromises.
+Instead, they discover evidence that the system was designed by human beings with philosophies, priorities, fears and compromises.
 
-The most important realization is:
+Most importantly, the Selection System is **not fate**.
 
-> **The list was not made by a machine. Someone decided what mattered.**
+It is a prediction-and-preparation system—not a supernatural guarantee of survival.
+
+The organization can influence circumstances, but it cannot control human beings, accidents, relationships, weather, panic, violence, illness, betrayal, sacrifice, coincidence or individual choice.
+
+The central rule is:
+
+> **Being selected does not mean being safe. Being overlooked does not mean being doomed.**
 
 ---
 
@@ -61,6 +67,8 @@ It discusses questions such as:
 - Which populations are geographically vulnerable?
 - What information should remain confidential?
 - How should emergency extraction priorities be determined?
+- How likely is each selected person to actually reach protection?
+- What happens when people refuse assistance?
 
 The cold administrative tone makes the document more disturbing than theatrical evil would.
 
@@ -157,9 +165,17 @@ This creates the central moral wound of the system.
 
 Someone had to decide what happened when there was not enough room, food, medicine, energy or transportation for everyone.
 
-The player is not told whether this prediction was correct.
+But the organization never possesses complete control over the outcome.
 
-Only that someone planned around it.
+It can reserve a vehicle and still lose the vehicle.
+
+It can protect a person and still fail to protect them from another human being.
+
+It can give someone medicine and still not control whether they take it.
+
+It can warn someone and still not control whether they believe the warning.
+
+It can mark someone as low priority and still be completely wrong about that person's ability to survive.
 
 ---
 
@@ -180,6 +196,8 @@ Their philosophy may include beliefs such as:
 - panic can kill more people than the original disaster
 
 These ideas can be simultaneously reasonable and horrifying.
+
+But the Architect's greatest flaw is assuming that human behavior can be planned like infrastructure.
 
 ---
 
@@ -262,6 +280,12 @@ It may have been introduced because someone inside the organization argued that 
 
 This can explain why some families were unexpectedly extracted together while others were not.
 
+Even when the exception is granted, however, survival is never guaranteed.
+
+A family can be extracted together and still lose someone later.
+
+A family can be denied extraction and still remain together through its own decisions.
+
 ---
 
 ## 13. A CHILD WAS PRIORITIZED
@@ -284,6 +308,10 @@ The player is encouraged to investigate rather than assume destiny.
 
 This keeps the possibility open that children were valued for reasons other than simple innocence.
 
+A high-priority child can still die.
+
+A child with no record can become one of the most important survivors in the universe.
+
 ---
 
 ## 14. THE ARCHITECT MADE MISTAKES
@@ -301,6 +329,9 @@ Examples:
 - shipment sent to the wrong location
 - outdated medical information
 - contradictory priority rankings
+- selected person refusing extraction
+- selected person choosing to save someone else instead
+- protected person dying after leaving the protected zone
 
 The organization was powerful, but not omniscient.
 
@@ -308,7 +339,139 @@ This gives the player opportunities to survive outside the system.
 
 ---
 
-## 15. SOMEONE OBJECTED
+## 15. THE UNPREDICTABLE HUMAN VARIABLE
+
+This is a foundational rule of RIDE OR DIE:
+
+**Human choice can override the plan.**
+
+A character's survival can depend on decisions made moments before death.
+
+Examples:
+
+- someone chooses to go back for a stranger
+- someone refuses to enter a protected vehicle
+- someone gives away their supplies
+- someone takes a different road
+- someone hides instead of running
+- someone stays behind for a loved one
+- someone lies about their identity
+- someone chooses not to follow official instructions
+- someone sacrifices a valuable possession to escape
+- someone makes a selfish choice and unexpectedly survives
+- someone makes a compassionate choice and dies because of it
+
+The organization can predict probabilities.
+
+It cannot command the heart.
+
+---
+
+## 16. PROTECTED PEOPLE CAN DIE
+
+The game must regularly demonstrate that organizational protection is **not plot armor**.
+
+A selected character may receive:
+
+- shelter access
+- medical assistance
+- transport
+- food
+- information
+- security
+- financial resources
+- priority evacuation
+
+And still die.
+
+They may die because of:
+
+- an accident
+- illness
+- another person's decision
+- violence
+- environmental danger
+- betrayal
+- equipment failure
+- refusing protection
+- leaving protection to save someone
+- being in the wrong place at the wrong time
+- an ordinary human mistake
+
+This keeps the Selection List from becoming a hidden “survivor list.”
+
+It is a **planning record**, not a prophecy.
+
+---
+
+## 17. THE UNEXPECTED SURVIVOR
+
+The opposite must also be true.
+
+A person the organization considered low priority—or never identified at all—can survive through:
+
+- preparation
+- instinct
+- luck
+- community
+- resourcefulness
+- compassion
+- physical ability
+- knowledge
+- stubbornness
+- a single crucial choice
+- another character's decision
+- pure coincidence
+
+The player should encounter survivors who make them think:
+
+> **“How are you still alive?”**
+
+That question is part of the game's identity.
+
+---
+
+## 18. THE LIST CAN BE WRONG ABOUT A PERSON
+
+A record may classify someone as:
+
+**LOW VALUE**
+
+Only for the player to discover that this person becomes essential to an entire settlement.
+
+A different person may be marked:
+
+**CRITICAL**
+
+Only to die before reaching the first protected facility.
+
+This creates dramatic irony and prevents deterministic storytelling.
+
+---
+
+## 19. THE PLAYER CAN CHANGE OUTCOMES
+
+The player's choices can directly interfere with predicted outcomes.
+
+A player may:
+
+- save someone the organization expected to lose
+- accidentally cause a selected person's death
+- hide a low-priority survivor
+- steal resources intended for a protected person
+- convince someone to refuse extraction
+- reunite separated family members
+- separate people who were expected to remain together
+- expose a protected location
+- preserve information that changes future decisions
+
+The player's agency is therefore part of the universe's unpredictability.
+
+The organization may eventually recognize that the player repeatedly produces outcomes that its models did not predict.
+
+---
+
+## 20. SOMEONE OBJECTED
 
 The player discovers the record of a person who strongly opposed the selection framework.
 
@@ -331,7 +494,7 @@ This character can become important later.
 
 ---
 
-## 16. THE ARCHITECT'S FEAR
+## 21. THE ARCHITECT'S FEAR
 
 The strongest evidence suggests the architect was not fearless.
 
@@ -351,7 +514,7 @@ This implies a disturbing possibility:
 
 ---
 
-## 17. THE SECOND ARCHITECTURE
+## 22. THE SECOND ARCHITECTURE
 
 The player discovers references to another plan existing underneath the Selection System.
 
@@ -368,7 +531,7 @@ Its existence means the organization itself had internal layers the player has n
 
 ---
 
-## 18. MATERIAL POWER
+## 23. MATERIAL POWER
 
 The architect's system was possible because enormous material resources were committed before The Collapse.
 
@@ -392,9 +555,13 @@ The conspiracy was not powered only by secret knowledge.
 
 It was powered by money, ownership, labor and logistics.
 
+But resources only create **possibility**.
+
+They do not guarantee survival.
+
 ---
 
-## 19. PLAYER THEORY SYSTEM
+## 24. PLAYER THEORY SYSTEM
 
 Players should be able to form competing theories.
 
@@ -419,7 +586,7 @@ The game does not confirm one theory in Layer 57.
 
 ---
 
-## 20. THE PLAYER CAN MEET AN ARCHITECT-ERA SURVIVOR
+## 25. THE PLAYER CAN MEET AN ARCHITECT-ERA SURVIVOR
 
 A surviving former participant in the planning system can appear.
 
@@ -452,7 +619,7 @@ The identity remains unrevealed.
 
 ---
 
-## 21. THE ARCHITECT IS HUMAN
+## 26. THE ARCHITECT IS HUMAN
 
 The game must resist turning the architect into a supernatural or impossibly intelligent figure.
 
@@ -476,7 +643,7 @@ Their humanity is what makes their decisions frightening.
 
 ---
 
-## 22. ECHO AURORA
+## 27. ECHO AURORA
 
 Echo Aurora can appear around damaged records or anomalous recordings.
 
@@ -491,7 +658,25 @@ Echo Aurora remains its own unresolved phenomenon.
 
 ---
 
-## 23. CHAPTER 3 ESCALATION
+## 28. SURVIVAL OUTCOME MODEL
+
+For production purposes, survival should emerge from interacting variables rather than a single “selected/not selected” flag.
+
+Conceptually:
+
+**Survival Outcome = Preparation + Choice + Capability + Relationships + Environment + Timing + Resources + Information + Luck + Consequences**
+
+The Selection List influences only some of these variables.
+
+This means two characters with identical protection can experience completely different outcomes.
+
+It also means a character with no organizational support can survive through a chain of believable choices.
+
+No character is guaranteed survival merely because the story calls them “important.”
+
+---
+
+## 29. CHAPTER 3 ESCALATION
 
 By the end of Layer 57, the player understands:
 
@@ -505,25 +690,46 @@ By the end of Layer 57, the player understands:
 8. The identity of that person remains unknown.
 9. A second hidden plan existed beneath the first.
 10. The organization may have been preparing for more than The Collapse.
+11. The Selection List is a plan, not a prophecy.
+12. Protected characters can still die.
+13. Unexpected characters can survive.
+14. Individual choices can override organizational predictions.
+15. The player's own decisions can change outcomes the organization expected.
 
 ---
 
-## 24. CANONICAL DIRECTION
+## 30. CANONICAL DIRECTION
 
-> **The terrifying thing was never that someone had a list. It was that someone had a reason for every name on it.**
+> **The organization could choose who to help. It could never completely choose who would live.**
 
 And:
 
-> **The people who built the lifeboats had already decided who could board.**
+> **The list was a prediction, not a promise.**
+
+And:
+
+> **Some of the people they protected would die. Some of the people they ignored would outlive them all.**
 
 ---
 
-## 25. LAYER 57 LOCK
+## 31. LAYER 57 LOCK
 
-Layer 57 introduces the human architecture behind the Selection System without prematurely naming or revealing the ultimate antagonist.
+Layer 57 introduces the human architecture behind the Selection System without turning the organization into an all-powerful force that determines the entire cast's fate.
 
-The organization becomes morally complicated rather than cartoonishly evil. Its members may sincerely believe they are preserving humanity while making decisions that permanently divide families, communities and generations.
+The organization can prepare, protect, manipulate circumstances, allocate resources and make predictions. It **cannot control human unpredictability**.
 
-The player now has enough evidence to understand that the Selection System was not spontaneous, accidental or purely bureaucratic.
+RIDE OR DIE's survival system therefore remains fundamentally player- and character-driven:
 
-**Someone designed the rules. Someone had the authority to change them. And someone knew exactly what those rules would cost.**
+**A character's choices matter. Other people's choices matter. Preparation matters. Relationships matter. Resources matter. Timing matters. Luck matters.**
+
+A selected person can die.
+
+An unselected person can become legendary.
+
+A protected family can still be broken apart.
+
+A supposedly insignificant person can save an entire community.
+
+And the player can change what the organization thought would happen.
+
+**Someone designed the rules. Someone had the authority to change them. But nobody—not even the people who built the lifeboats—could decide exactly who would make it to shore.**
