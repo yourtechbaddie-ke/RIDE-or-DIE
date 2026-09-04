@@ -2,10 +2,13 @@
 ## LAYER 78 — THE WEIGHT OF CHOICE
 
 ### Purpose
-Unify Chapter 3's systems into one coherent principle: survival is the accumulation of choices made under uncertainty.
+Unify Chapter 3's systems around one foundational truth: **RIDE OR DIE has no main characters. It has people whose lives intersect.**
 
 ### Core Rule
 The game should not ask, “Did the player choose correctly?” It should ask, “What happened because they chose?”
+
+### Equal Narrative Status
+No character is inherently more important than another. Narrative importance is emergent and temporary. A character can matter enormously in one chapter and become distant in another; a previously unknown person can become central to a community or family through their own choices.
 
 ### Choice Architecture
 Major decisions can alter:
@@ -29,10 +32,19 @@ The player never receives perfect information. NPCs can act unexpectedly. The or
 ### No Moral Score
 There is no universal good/bad meter deciding the story. Compassion, selfishness, caution, risk, loyalty and ambition can each produce benefits and costs.
 
+### No Protected Perspective
+The player may experience the world through different characters. A playable perspective is not a protagonist designation. When perspective changes, the previous character continues living, choosing, aging, suffering, succeeding or dying independently.
+
+### Equal Consequence
+Every character's decisions can create consequences. Every character can be affected by consequences. No character receives immunity because the player has spent more time with them.
+
+### Death Equality
+Any character can die. Any character can survive. No character is guaranteed survival because they are playable, beloved, visually prominent, wealthy, selected, related to the mystery or emotionally important.
+
 ### Chapter 3 Synthesis
-The Black Highway now represents more than travel. It is where people carry debts, reputations, families, possessions, secrets and consequences while moving through a world that continues without them.
+The Black Highway represents intersecting lives rather than a hero's journey. People carry debts, reputations, families, possessions, secrets and consequences while moving through a world that continues without any single person at its center.
 
 ### Layer Lock
-> “There are no perfect choices on the Black Highway. There are only choices—and the lives that continue because of them.”
+> “There is no main character in this world. There are only lives crossing paths.”
 
-> “You are not writing the future. You are leaving marks on it.”
+> “The camera may follow one person. The world belongs to everyone.”
