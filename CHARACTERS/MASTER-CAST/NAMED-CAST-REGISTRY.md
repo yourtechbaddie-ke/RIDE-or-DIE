@@ -1,7 +1,7 @@
 # RIDE OR DIE — Named Cast Registry
 
 ## Status
-**Naming direction locked for the current 50-character ensemble.**
+**Naming direction locked for the current ensemble.**
 
 This registry supersedes placeholder labels such as “The Doctor” or “The Bus Driver” in narrative use. Internal technical IDs may remain unchanged. Player-facing and creative documentation should use canonical names.
 
@@ -62,6 +62,7 @@ Names should feel believable, memorable and appropriate to the character. They d
 | 48 | **Father Luke** | Young priest |
 | 49 | **Daniel Moore** | Grieving brother |
 | 50 | **Clara West** | Unknown woman whose true identity remains hidden from the player |
+| 51 | **Dr. Vera Voss** | Surgeon secretly harvesting human organs/tissue for an unidentified organization |
 
 ## Existing named supporting cast retained
 The previously created supporting characters remain part of the wider ensemble, including:
@@ -94,7 +95,7 @@ The previously created supporting characters remain part of the wider ensemble, 
 **Damian Bellamy** is the canonical tattoo artist name. The earlier working name **Knox Bellamy** is retired and must not be used for the tattoo artist going forward.
 
 ## Continuity note
-The registry intentionally does not force every existing supporting character into the original 1–50 placeholder numbering. The cast is expandable beyond 50, and the registry should be treated as the current naming source of truth while individual character dossiers are progressively expanded.
+The registry is expandable beyond 50. The numbered list is a current naming source of truth, while individual character dossiers progressively expand the wider ensemble.
 
 ## Direction lock
 **RIDE OR DIE characters should sound like real people. The name should fit the person—not perform for the audience.**
