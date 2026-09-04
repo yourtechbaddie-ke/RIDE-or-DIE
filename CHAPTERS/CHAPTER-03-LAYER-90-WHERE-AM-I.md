@@ -2,14 +2,61 @@
 ## LAYER 90 — WHERE AM I?
 
 ### Purpose
-Lock the ultimate suspense ending: the player survives, wakes from a six-month coma, and cannot immediately determine whether the world they experienced was real.
+Lock the ultimate suspense ending: the player remains fully engaged through the end of The Collapse, sees the surviving characters living in the world's restored new normal, and only then is revealed to have survived six months in a coma.
 
-### Final Scene
-The game cuts from the last powerless observation of surviving characters to darkness.
+### Final Playable Moment
+The player does **not** lose interaction before the end of The Collapse.
 
-A monitor continues beeping.
+The final survival sequence remains genuinely playable. The player reaches the end through movement, decisions, investigation, relationships, resources and consequences.
+
+The last interactive moment belongs to the game—not to a forced observer sequence.
+
+### The World Returns
+After The Collapse is finally over, the game shows that civilization has begun to recover.
+
+The player sees the actual survivors living again:
+- homes being repaired
+- businesses reopening
+- people returning to work
+- children growing
+- families rebuilding
+- relationships changing
+- memorials and graves being visited
+- ordinary meals and routines returning
+- roads becoming usable again
+- communities becoming recognizable again
+
+This is not a perfect restoration. The world has scars, absences and memories. But life has returned.
+
+### The Player's Last View of the World
+Only after the game has reached this post-Collapse normal does the player lose all ability to interact.
+
+The player can only observe.
+
+They cannot speak, touch, move objects, intervene, save anyone, alter events or communicate with survivors.
+
+The survivors do not know they are being watched.
+
+The player watches long enough to understand one devastating fact:
+
+**These people have lives that continue without them.**
+
+### The Final Cut
+The player watches a final ordinary moment involving survivors.
+
+Nothing announces that it is the ending.
+
+Then—
+
+**CUT TO BLACK.**
+
+The sound changes.
+
+A monitor.
 
 A breath.
+
+Hospital machinery.
 
 A ceiling.
 
@@ -17,16 +64,31 @@ Private hospital lighting.
 
 The player opens their eyes.
 
-A voice may be heard nearby, but the player does not immediately understand the words.
+### The Hospital
+The player is alive in a private hospital bed.
 
-The player looks around.
+They look around, confused.
 
-After a long silence, they ask:
+The world around them is completely different from everything they just experienced.
+
+No highway.
+
+No settlements.
+
+No Collapse.
+
+No characters standing nearby.
+
+No visible proof that any of it happened.
+
+A medical professional may speak, but the player is still disoriented.
+
+After a long silence, the player asks:
 
 > **“Where am I?”**
 
-### Real-World Reveal
-The player learns they have been unconscious for **six months** after The Collapse experience.
+### Six Months
+The player learns that they have been unconscious for **six months**.
 
 Their body survived.
 
@@ -34,63 +96,87 @@ The hospital is real.
 
 The room is real.
 
-The player is alive.
+They survived.
 
-### The Impossible Problem
-Everything they remember now looks impossible from the outside:
-- the roads
-- settlements
-- characters
-- deaths
-- relationships
-- journeys
-- Echo Aurora
-- The Selection List
-- the organization
-- the lives they witnessed
+### The Impossible Question
+The player remembers the entire experience with emotional and sensory clarity.
 
-The world may look exactly like a game, dream or hallucination that never happened.
+But from the hospital's perspective, it can look like an impossible internal world.
 
-But the ending must refuse to confirm that conclusion.
+The player cannot immediately prove:
+- that the roads existed
+- that the settlements existed
+- that the people existed
+- that the deaths happened
+- that the relationships happened
+- that The Collapse happened as experienced
+- that Echo Aurora existed
+- that the Selection List existed
+- that the organization existed
+- that the player ever physically entered that world
 
-### Final Suspense
-The player notices **one small detail** in the hospital that should not exist if the experience was entirely imaginary.
+### The Suspense Clue
+Before the player can investigate, they notice **one small detail from the game in the hospital**.
 
-The detail must be subtle enough to create doubt rather than provide an answer.
+It could be:
+- a familiar symbol
+- an object
+- a photograph
+- a phrase
+- a date
+- a sound
+- a medical record detail
+- an item associated with a survivor
+- an impossible connection to someone they remember
 
-Possible forms include a familiar symbol, an unfamiliar object from the game, a photograph, a date, a phrase, a medical record detail, a sound, or an impossible connection to a character.
+The clue must not explain the mystery.
 
-The exact final clue remains intentionally open for later endgame design.
+It must only make the player—and the audience—wonder.
 
-### No Full Explanation
-The game ends before the player can investigate the clue.
+### No Explanation
+The ending must never say:
 
-No narrator explains what happened.
+“It was all a dream.”
 
-No character confirms the truth.
+It must also never definitively say:
 
-No “it was all a dream” reveal is allowed.
+“It was all supernatural.”
 
-No “everything was literally supernatural” reveal is allowed.
-
-### Final Question
-The player is left with three equally disturbing possibilities:
-
-1. They experienced an extraordinarily vivid internal world during the coma.
-2. The world they experienced existed in some form outside ordinary reality.
-3. The distinction between those explanations is itself part of the mystery.
+The player is left without enough information to know whether the world was:
+1. an extraordinarily vivid experience generated during the coma,
+2. a real world accessed or experienced in a way the player cannot explain, or
+3. something that makes the distinction between those possibilities meaningless.
 
 ### Final Emotional State
-The player should feel relief that they survived, grief for the people they left behind, confusion about what was real, and an urgent desire to know what happened while they were unconscious.
+The player should feel:
+- relief that they survived
+- grief for the people they remember
+- disorientation
+- loneliness
+- disbelief
+- recognition that those lives continued
+- fear that the experience was real
+- fear that it was not
+- an overwhelming need to know what happened
 
 ### End Condition
-**The game ends on suspense, not explanation.**
+The game ends **immediately after the hospital realization and final unexplained clue**.
 
-The screen cuts to black before the final clue can be understood.
+No investigation follows.
 
-### Layer Lock
+No confirmation follows.
+
+No epilogue explains the truth.
+
+No character returns to explain the experience.
+
+The screen cuts to black.
+
+### Final Layer Lock
 > **“Where am I?”**
 
-> “Everything looked imaginary. That was the problem.”
+> “Everything looked imaginary.”
 
-> “The player survived. The question was whether they had ever really been alone.”
+> “Except for the one thing that should not have been there.”
+
+**RIDE OR DIE ends with the player alive—and the truth unresolved.**
