@@ -51,7 +51,7 @@ Names should feel believable, memorable and appropriate to the character. They d
 | 37 | **Mia Torres** | Street artist |
 | 38 | **Lily Walker** | Farmer's daughter |
 | 39 | **Thomas Reed** | Widower |
-| 40 | **Caleb Morgan** | Young father; shared entry with #12 by design |
+| 40 | **Aaron Blake** | Separate young father |
 | 41 | **Margaret Hill** | Elder |
 | 42 | **Robert King** | Shopkeeper / barter trader |
 | 43 | **Alice Brown** | Seamstress |
