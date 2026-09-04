@@ -2,12 +2,12 @@
 ## LAYER 65 — THE CHOICES NPCs MAKE
 
 ### Purpose
-Deepen autonomous character agency while permanently removing the concept of a privileged “main character” from RIDE OR DIE.
+Define autonomous character agency while establishing that the player is **not a character in the world**.
 
 ### Core Rule
-**Every named character is a full person in the world. There are no main characters.**
+**Every named character is a full person in the world. There are no main characters, and the player is not one of them.**
 
-The player may temporarily control one character, but control does not grant that character greater narrative value, protection, rights, or destiny.
+The player is an observing/experiencing presence whose apparent participation is deliberately ambiguous. Characters retain their own lives, agency and narrative rights regardless of whether the player can currently see or control them.
 
 ### Equal Character Rights
 Every character has the same fundamental narrative rights:
@@ -23,22 +23,17 @@ Every character has the same fundamental narrative rights:
 - the right to be remembered
 - the right to become important through their actions rather than their label
 
-### No Main-Character Privilege
-No character is automatically protected because they are:
-- the first character encountered
-- the character currently controlled
-- visually prominent
-- wealthy
-- attractive
-- connected to the mystery
-- a parent
-- a child
-- a celebrity
-- a leader
-- selected by the organization
-- emotionally important to the player
+### No Player-Character Identity
+The player may initially experience the game as though they are inhabiting a character. This is an intentional narrative illusion, not a canon identity.
 
-### Character Agency
+The game must never permanently assign the player's real-world identity to a named character.
+
+### Apparent Control
+Early gameplay may make movement, observation, decisions and consequences feel like direct participation in a character's life. Later revelations can destabilize that assumption.
+
+The player can eventually realize that they were never simply “one of the people” in the world. What they were remains an unresolved endgame question.
+
+### NPC Agency
 Characters can leave settlements, refuse rescue, return for someone, hide information, steal or share resources, forgive or retaliate, fall in love, separate, protect a child, abandon a plan, change roles, make mistakes, betray someone, confess, sacrifice themselves, or survive through an unexpected decision.
 
 ### Decision Drivers
@@ -47,21 +42,18 @@ Choices are shaped by relationships, personality, fear, health, resources, reput
 ### No Artificial Randomness
 Unexpected outcomes must feel human rather than arbitrary. The world records why a character acted even when the player did not know the reason beforehand.
 
-### Player Control Is Temporary
-When the player controls a character, that character becomes the current playable perspective—not the “hero.” Other characters continue having independent lives and can act elsewhere.
-
-A future chapter, scene or event may place control in another character without treating the previous playable character as more important.
-
-### Character-Centered Play
-The game can move between characters when the story naturally demands it. A shopkeeper, child, doctor, farmer, celebrity, mechanic, parent, stranger or previously minor character may become the playable perspective because their life has become relevant—not because they were secretly the protagonist all along.
+### Player Perspective Is Temporary
+The player may be given access to a character's perspective, but that character is never the player's canonical identity. Perspective can move between lives, locations and time periods.
 
 ### Death Equality
-Any character can die. Any character can survive. Death cannot be blocked merely because a character has previously been playable or is important to a particular storyline.
+Any character can die. Any character can survive. No character receives protection because the player has spent time observing or controlling their perspective.
 
-### Survival List Interaction
+### Selection List Interaction
 A selected/protected character can die. An unselected character can survive and become essential. The Selection List predicts and plans; it does not determine fate.
 
 ### Layer Lock
 > “There is no chosen one in RIDE OR DIE. There are only people.”
 
 > “The camera may follow one life for a while. The world never belongs to that life alone.”
+
+> “And when the player finally asks who they were, the game does not have to answer.”
