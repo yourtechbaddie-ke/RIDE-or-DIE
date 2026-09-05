@@ -18,9 +18,11 @@ RIDE OR DIE has no main-character hierarchy.
 
 Every named character is a complete person with the right to live, die, choose, change, leave, return, form relationships, own possessions and be remembered.
 
-The player is not a canonical character.
+The player has no fixed project-wide physical identity. The registry's **Protagonist** entry represents the player's customizable character slot. A player's selected Protagonist appearance becomes canonical for that playthrough only; it does not replace the fixed appearance of any established named character.
 
 ## 3. Visual Continuity
+
+The authoritative character appearance source is `PRODUCTION/SEASON-1/CHARACTER-VISUAL-MASTER.md`.
 
 Characters remain visually recognizable across:
 
@@ -31,6 +33,8 @@ Characters remain visually recognizable across:
 - emotional states
 - age states
 - cinematic presentations
+
+Fixed-age characters must retain their canonical age presentation unless an explicit narrative time progression changes their age. The Protagonist uses the player's selected age as its active visual lock.
 
 Wardrobes rotate naturally. Characters are not permanently locked to one outfit.
 
@@ -102,6 +106,8 @@ Its visual signature is **#8FA9A3**.
 
 Its manifestations remain restrained, recurring and internally consistent.
 
+ECHO remains outside the human age-aware character system.
+
 ## 10. Player Experience
 
 The final experience must support:
@@ -142,6 +148,7 @@ Season 1 is production-complete when:
 
 - all planned narrative layers are represented
 - the named cast has production-ready identity specifications
+- the canonical visual master contains the fixed character appearance system and Protagonist customization standard
 - visual and wardrobe continuity is established
 - animation and expression systems are defined
 - audio and music architecture is defined
