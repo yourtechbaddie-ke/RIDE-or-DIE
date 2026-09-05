@@ -3,8 +3,26 @@
 ## Purpose
 Define the animation and facial-performance foundation required for believable human characters across ordinary life, fear, survival, grief and recovery.
 
+## Canonical Visual Dependency
+Animation and facial performance must be built against `PRODUCTION/SEASON-1/CHARACTER-VISUAL-MASTER.md`. The model, rig, facial proportions, body proportions, posture and performance range must respect each character's canonical age or the Protagonist's player-selected age.
+
 ## Core Principle
 Characters must behave like people, not game mannequins. Animation communicates personality, physical condition, relationships and circumstance.
+
+## Age-Aware Performance
+Age affects more than facial texture. Production must preserve believable age-specific:
+- posture;
+- stride and movement economy;
+- reach and body proportions;
+- facial muscle behavior;
+- reaction timing;
+- strength and fatigue presentation;
+- hand and neck movement;
+- emotional expression.
+
+Children and teenagers must retain age-appropriate movement and expression. Adult characters must not be animated like younger characters solely to make them appear energetic or attractive.
+
+The Protagonist follows the same rule using the player's selected age.
 
 ## Baseline Animation Set
 Playable-capable characters should support, as appropriate:
@@ -55,6 +73,8 @@ Expressions should cover natural states such as:
 - relief;
 - disbelief;
 - emotional shutdown.
+
+Facial performance must preserve each character's established facial structure. Do not use a single generic facial rig expression set that makes different characters appear interchangeable.
 
 ## Contextual Performance
 The same character should not display identical reactions in every circumstance. A person may hide fear from a stranger, break down alone, joke under pressure, freeze during danger or become unexpectedly calm.
