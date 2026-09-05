@@ -8,12 +8,17 @@ Every named character is a complete human being with visual identity. Visual pro
 
 There are no default protagonists, heroes or protected characters. A character can be beautiful, ordinary, wealthy, poor, young, old, famous, anonymous, powerful, vulnerable, selected or unselected without gaining automatic plot protection.
 
-## Player Rule
-The player has no canonical physical identity and is not a member of the named cast. Apparent early control of a character is a playable-perspective device, not proof that the player is that person.
+## Player / Protagonist Rule
+The player has no fixed canonical physical identity. The registry's **Protagonist** entry is a player-controlled character slot rather than a fixed person with one permanent face or body.
+
+When the player creates the Protagonist, the customization system must use the same age-aware visual standard as the named human cast. The player selects, as supported by the game, age, gender presentation, heritage, skin tone/undertone, facial structure, eyes, hair, body build, height, distinguishing marks, wardrobe and recognition anchors. The selected age must govern believable facial maturity, body proportions, skin texture, neck anatomy and hand anatomy.
+
+A customized Protagonist is canonical for that player's playthrough, while remaining non-fixed at the project-wide canon level. No player-selected appearance should overwrite the established appearance of Mara or any other named character.
 
 ## Visual Identity Fields
 Every named character production sheet must define:
-- Full name and age at introduction.
+- Full name and canonical age at introduction, where the character has a fixed canon age.
+- Player-selected age for the Protagonist, where applicable.
 - Ethnicity/cultural background where canonically relevant.
 - Skin tone and undertone.
 - Face shape and distinctive facial features.
@@ -31,6 +36,14 @@ Every named character production sheet must define:
 - Early-Collapse adaptation.
 - Later survival appearance.
 - Injury, exhaustion and weathering states where required.
+- Recognition anchor(s) that survive ordinary wardrobe changes.
+
+## Standard Human Age + Presence Rule
+For every human character with a fixed canonical age, the age listed in `PRODUCTION/SEASON-1/CHARACTER-VISUAL-MASTER.md` is the production lock unless explicitly changed by canon. Characters must visibly read as their stated age without caricature, premature aging or artificial youthfulness.
+
+For the Protagonist, the player-selected age becomes the active visual lock for that playthrough. The same age-aware principles apply.
+
+Age must be reflected consistently across gameplay, cinematics, portraits, turnarounds, exhausted states, injured states, weathered states and well-rested states. Mature does not mean elderly, and attractive does not mean young.
 
 ## Diversity Rule
 The cast must look like a genuinely populated world. Representation should include diverse ethnicities, cultures, ages, body types, facial structures, disabilities where appropriate, socioeconomic backgrounds and personal styles without reducing characters to stereotypes.
@@ -68,7 +81,10 @@ A character's appearance must evolve logically with:
 A character does not magically return to a pristine appearance after a difficult survival sequence.
 
 ## Character Creation Queue
-All 69 unique named characters require a visual production entry. The existing registry entry currently labeled "Protagonist" must be corrected to a real named character because the player is not a character.
+All 69 roster entries require a visual production entry. This includes the Protagonist as a player-customizable visual slot, 49 other fixed-identity main human characters, ECHO's separate non-human visual specification, and the 18 supporting characters.
 
 ## Production Principle
 > A character is not finished because we know their backstory. They are finished when the player can recognize them, believe them, and understand their life through what they see.
+
+## Canonical Source
+`PRODUCTION/SEASON-1/CHARACTER-VISUAL-MASTER.md` is the authoritative individual-character appearance source. Other production layers must reference it rather than creating competing appearance descriptions.
