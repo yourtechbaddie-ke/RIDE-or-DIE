@@ -3,6 +3,11 @@
 ## Purpose
 Define how character appearance communicates identity, class, occupation, personality and changing survival conditions without turning clothing into a static costume.
 
+## Canonical Appearance Source
+All fixed-identity character appearances, ages, recognition anchors and wardrobe baselines originate from `PRODUCTION/SEASON-1/CHARACTER-VISUAL-MASTER.md`.
+
+The Protagonist uses the same visual system but is customized by the player. Player-selected age, body, heritage and appearance remain coherent throughout that player's playthrough without replacing fixed character canon.
+
 ## Before The Collapse
 Wardrobes should reflect ordinary life:
 - work and school;
@@ -36,6 +41,13 @@ Examples of visual storytelling:
 - sentimental jewelry can preserve family identity;
 - professional clothing can become impractical as society changes;
 - a favorite garment can become a recurring emotional object.
+
+## Age + Appearance Continuity
+Age is part of appearance, not a separate cosmetic setting. Fixed-age characters must retain age-appropriate facial maturity, skin texture, body proportions, neck/hand anatomy and posture across wardrobe states. Clothing must fit the person's actual age and life stage.
+
+Children and teenagers must not be dressed or proportioned as miniature adults. Adults must not be visually de-aged simply because they are attractive or well-rested.
+
+For the Protagonist, the selected age controls the same visual constraints throughout the playthrough.
 
 ## Wardrobe States
 Where relevant, production should support:
