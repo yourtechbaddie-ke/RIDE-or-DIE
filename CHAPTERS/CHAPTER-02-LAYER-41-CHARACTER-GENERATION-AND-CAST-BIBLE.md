@@ -4,9 +4,9 @@
 **Creative direction locked.**
 
 ## Purpose
-Begin turning the 40+ named-character target into a production-ready cast bible without prematurely assigning names or visual identities that have not been creatively approved.
+Establish the creative foundation for turning the RIDE OR DIE cast into production-ready people without prematurely assigning identities that have not been creatively approved.
 
-Layer 41 defines the standard every character must meet before becoming canonical.
+Layer 41 defines the character-development standard. The current canonical 69-entry roster and detailed visual appearance specifications are maintained separately in the master cast registry and `PRODUCTION/SEASON-1/CHARACTER-VISUAL-MASTER.md`.
 
 ---
 
@@ -42,11 +42,13 @@ Every major character follows this sequence:
 
 # 3. Canonical name requirement
 
-A character does not become production-canonical until they have a human name.
+A character does not become production-canonical until they have a human name, except for deliberately non-human entities such as ECHO, which retain their own canonical identity rules.
 
 Temporary internal IDs may be used by technical systems, but creative documents should use the character's working name once established.
 
 No player-facing numbered characters.
+
+The player's customizable Protagonist is a special player-character slot: it has a stable role and ID but no single project-wide face, body or personal visual identity. The player's selected appearance becomes canonical for that playthrough only.
 
 ---
 
@@ -202,16 +204,21 @@ Not every line should sound polished.
 
 Character visuals must communicate identity without relying on exposition.
 
-Consider:
+The authoritative visual specification for the current cast is `PRODUCTION/SEASON-1/CHARACTER-VISUAL-MASTER.md`. That master must define or reference, as applicable:
+- canonical age or player-selected age;
 - silhouette;
 - posture;
+- facial structure;
+- skin and material detail;
+- hair;
 - clothing choices;
-- grooming;
 - accessories;
 - movement;
 - facial expression;
 - signs of occupation;
-- signs of family life.
+- signs of family life;
+- recognition anchors;
+- pre-Collapse and Collapse wardrobe evolution.
 
 Visual details must remain consistent with the character's circumstances.
 
@@ -251,6 +258,8 @@ This includes:
 - elders.
 
 A newborn is not a miniature adult NPC. Their behaviour, mobility and interactions must be developmentally appropriate.
+
+Fixed-age characters must visually read as their canonical age. Do not use exaggerated wrinkles or artificial youthfulness as shorthand. The Protagonist follows the same age-aware rules using the player's selected age.
 
 ---
 
@@ -362,7 +371,7 @@ The player should often learn who someone is by observing them rather than recei
 
 # 21. Cast-bible categories
 
-The initial 40+ ensemble should deliberately cover multiple narrative functions without becoming rigid archetypes.
+The established ensemble deliberately covers multiple narrative functions without becoming rigid archetypes.
 
 Suggested creative buckets:
 - families;
@@ -424,9 +433,7 @@ A character can be queer, religious, wealthy, poor, admired, disliked, compassio
 
 # 25. Cast growth
 
-The 40+ target is a floor for the planned ensemble, not a ceiling.
-
-New named characters may be added when they create meaningful narrative or world value.
+The current canonical roster is 51 main entries plus 18 supporting entries, for 69 total. New named characters may be added only when the canon is explicitly expanded; the existing 69 must not be replaced or silently redefined.
 
 A character can begin as a minor community member and become important through emergent play.
 
@@ -436,7 +443,7 @@ A character can begin as a minor community member and become important through e
 
 Before final approval, ask:
 
-- Do they have a name?
+- Do they have a name or an intentionally defined non-human identity?
 - Can I describe their life without mentioning the protagonist?
 - Do they have someone they love?
 - Do they have someone they fear or distrust?
@@ -449,6 +456,8 @@ Before final approval, ask:
 - Do they know some things but not others?
 - Can they act without the player?
 - Would their absence change something?
+- Is their appearance consistent with the canonical visual master?
+- Is their age presentation accurate and consistent?
 
 If most answers are no, the character is not ready.
 
@@ -457,7 +466,7 @@ If most answers are no, the character is not ready.
 # 27. Layer 41 acceptance criteria
 
 - [ ] A formal character creation sequence exists.
-- [ ] Characters receive names before production canonization.
+- [ ] Characters receive names before production canonization, except deliberately non-human identities such as ECHO.
 - [ ] Human contradiction is required for core characters.
 - [ ] Moral complexity replaces simplistic morality labels.
 - [ ] Relationship maps are part of every core character dossier.
@@ -467,18 +476,19 @@ If most answers are no, the character is not ready.
 - [ ] Voice and physical performance are part of character design.
 - [ ] Visual identity includes wardrobe and movement.
 - [ ] Life-stage behaviour is developmentally appropriate.
+- [ ] Canonical age or player-selected age is respected.
 - [ ] Characters can initiate actions independently.
 - [ ] Knowledge boundaries are tracked.
 - [ ] Emotional triggers and baselines are tracked.
 - [ ] Consequence paths are designed before production.
 - [ ] Death/disappearance continuity is planned where applicable.
 - [ ] Characters can be introduced naturally through the world.
-- [ ] The 40+ ensemble covers diverse life roles without rigid archetypes.
+- [ ] The established ensemble covers diverse life roles without rigid archetypes.
 - [ ] The two celebrity concepts remain part of the same cast system.
 - [ ] Established family and parenthood concepts remain canon.
 - [ ] Sensitive identities are treated as dimensions of whole characters.
-- [ ] The ensemble can grow beyond 40 when justified.
+- [ ] The 69-entry roster is preserved unless canon explicitly changes it.
 - [ ] A character canon approval checklist exists.
 
 ## Direction lock
-**The next step is not to manufacture 40 faces. It is to create 40 lives. Once those lives are believable, their names, faces, voices, homes and stories can be made visually real.**
+**The next step is not to manufacture generic faces. It is to create believable lives. The canonical visual master then turns those approved lives into consistent faces, bodies, wardrobes, voices and game-ready assets.**
