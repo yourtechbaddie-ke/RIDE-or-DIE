@@ -27,7 +27,7 @@ Visual production is divided into:
 - skin/material detail;
 - wardrobe;
 - accessories;
-- age presentation;
+- canonical age presentation;
 - emotional expressions;
 - injury states where narratively appropriate.
 
@@ -68,6 +68,8 @@ Visual production is divided into:
 
 Each major character requires a canonical visual reference before production assets are considered final.
 
+The authoritative individual appearance source is `PRODUCTION/SEASON-1/CHARACTER-VISUAL-MASTER.md`. Production assets must use that file rather than inventing alternate character appearances.
+
 Reference information should include:
 - front/three-quarter/side views where useful;
 - facial proportions;
@@ -76,11 +78,16 @@ Reference information should include:
 - body silhouette;
 - wardrobe rules;
 - accessories;
-- age range;
+- canonical age at introduction, or player-selected age for the Protagonist;
 - emotional baseline;
-- contextual outfit variants.
+- contextual outfit variants;
+- age, injury, exhaustion and weathering continuity where applicable.
 
 A character must remain recognizably the same person across scenes.
+
+The Protagonist is customizable by the player. Its selected appearance is canonical for that playthrough but does not replace the project-wide fixed appearance of any named character.
+
+ECHO remains a separate non-human visual case and must not be forced into ordinary human character-generation rules.
 
 ---
 
@@ -91,6 +98,7 @@ AI-assisted generation or procedural asset creation may help accelerate producti
 A human/creative review pass is required for:
 - identity consistency;
 - anatomy;
+- age fidelity;
 - continuity;
 - cultural plausibility;
 - wardrobe continuity;
@@ -304,7 +312,8 @@ The next 3D-facing slice should contain reviewed assets for:
 - phone;
 - rain/weather treatment;
 - basic facial/emotional performance;
-- contextual clothing.
+- contextual clothing;
+- age-aware character presentation.
 
 The current Hatchable prototype remains an experience prototype until these assets are integrated.
 
@@ -314,7 +323,7 @@ The current Hatchable prototype remains an experience prototype until these asse
 
 The production standard is:
 
-**Cinematic realism + character continuity + environmental storytelling + emotional performance + restraint.**
+**Cinematic realism + character continuity + environmental storytelling + emotional performance + age fidelity + restraint.**
 
 The goal is not photorealism for its own sake.
 
@@ -343,6 +352,8 @@ They should feel like they are looking into someone's life.
 - [ ] Assets have consistent naming/versioning.
 - [ ] Major assets pass through review gates.
 - [ ] The next 3D slice has a defined visual asset target.
+- [ ] Fixed-age characters use the canonical age-aware visual master.
+- [ ] The Protagonist customization system uses the same age-aware visual standard.
 
 ## Direction lock
 **The final Ride or Die visual standard is not “make everything photorealistic.” It is “make everything believable enough that the player stops seeing assets and starts seeing lives.”**
