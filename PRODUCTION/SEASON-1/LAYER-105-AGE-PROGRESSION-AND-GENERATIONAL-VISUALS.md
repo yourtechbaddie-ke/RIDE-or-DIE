@@ -3,6 +3,11 @@
 ## Purpose
 Make time visible. RIDE OR DIE must show that children grow, adults change, elders age and families continue.
 
+## Canonical Age Source
+For fixed-identity characters, the canonical starting age is defined in `PRODUCTION/SEASON-1/CHARACTER-VISUAL-MASTER.md` and must be treated as the visual production lock unless canon is explicitly changed.
+
+The Protagonist is player-customizable. Its selected age becomes the active age lock for that playthrough and must drive the same age-aware visual, animation, wardrobe and expression rules.
+
 ## Age Is Not a Reskin
 An age progression must change more than height. It may affect:
 - facial proportions;
@@ -16,6 +21,11 @@ An age progression must change more than height. It may affect:
 - movement;
 - confidence;
 - physical capability.
+
+Age changes must remain natural and continuous. Do not use exaggerated wrinkles, sudden facial reshaping or generic "old" styling as shorthand for aging.
+
+## Fixed-Age Character Rule
+Characters who do not undergo an explicit in-world age progression should retain their established age presentation throughout the relevant timeline. Stress, injury and weathering are not substitutes for aging and must not make a character appear decades older without narrative cause.
 
 ## Clothing & Identity Through Time
 Wardrobes should evolve with age while retaining recognizable personal taste. Distinctive color palettes, fabrics, patterns, jewelry, cultural elements, artistic expression and luxury/practical choices may persist as identity markers while garments themselves change.
