@@ -10,7 +10,7 @@ This file is the canonical source for character-image generation, 3D modeling, p
 ## NON-NEGOTIABLE RULES
 - Every human named character has an explicit age and must visibly read as that age.
 - ECHO is non-human and is excluded from human age/appearance rules.
-- Mara is **38 years old** and must consistently read as 38.
+- Mara is **29 years old** and must consistently read as 29, following the officially approved Mara character sheet.
 - The Protagonist has no fixed canon appearance: the player creates the character using the same age-aware visual system.
 - No character may inherit another character's complete face, hair, body silhouette, wardrobe language or recognition anchor.
 - Age is never represented by caricature. Mature means realistically mature, not artificially aged.
@@ -54,61 +54,82 @@ Every selectable feature must remain coherent with the selected age, heritage an
 Allow everyday, occupation/social, travel, early-Collapse, later-survival, severe-weather and injury/recovery states. Clothing choices must remain player-controlled but physically believable.
 
 ### 5. RECOGNITION ANCHOR
-Player-selected and persistent across gameplay unless deliberately changed through a customization mechanic.
+Player-selected and persistent across gameplay unless delib## 02 — MARA
 
----
+### OFFICIAL VISUAL APPROVAL — SUPERSEDES PREVIOUS MARA VISUAL MASTER
+The user has approved the uploaded character sheet titled MARA as the definitive visual reference for Mara. This approved image supersedes all previous Mara visual references and the previous Mara appearance specifications in this document. Do not use the former 38-year-old visual design, face, hair, proportions, scar placement or wardrobe as the basis for future images or 3D modelling.
 
-## 02 — MARA
+Approved reference asset: `CHARACTERS/MASTER-CAST/MARA/REFERENCES/MARA-OFFICIAL-APPROVED-CHARACTER-SHEET.png`
+
+The image is the source of truth for Mara's face, visual identity, age presentation, height/proportions, hair, scar, jewellery, pre-Collapse and post-Collapse appearance, accessories, gear and overall aesthetic. Reproduce the approved design faithfully in future high-resolution renders, turnarounds, Blender modelling, textures, rigging and cinematics. Do not reinterpret her as the previous canonical design.
 
 ### 1. IDENTITY
-Name: Mara  
-Character ID: ROD-S1-02  
-Role: Settlement Leader  
-Age: **38 years old**  
-Gender: Woman  
-Heritage: Black British  
-Skin: Deep umber brown skin with a warm undertone.
+Name: Mara Elise Laurent
+Character ID: ROD-S1-02
+Age: **29 years old**
+Height: **5'7" / 170 cm**
+Role: Leader · Strategist · Protector
+Occupation: Former Intelligence Analyst
+Faction: The Ashen Circle
+Alignment: Chaotic Good
+Status: Alive
+Universe: Ride or Die
 
-Mara must visibly read as a 38-year-old adult woman.
+### 2. OFFICIAL VISUAL APPEARANCE
+The approved character sheet is authoritative for Mara's appearance. It depicts:
+- A striking adult woman with warm medium-to-deep brown skin and defined facial structure.
+- Long, voluminous, naturally textured dark hair; the pre-Collapse style is polished and loose, while the post-Collapse style is rugged, loosely tied and weathered.
+- Expressive hazel-green eyes.
+- A defined jawline and full, expressive lips.
+- A visible facial scar acquired during The Collapse; match its placement and appearance to the approved close-up reference.
+- A consistent, recognizable face across pre-Collapse, post-Collapse, close-up and full-body views.
 
-Her face should show realistic adult maturity without prematurely aging her.
+### 3. APPROVED WARDROBE AND SILHOUETTES
+Pre-Collapse:
+- Elegant fitted black evening gown with a high slit.
+- Gold signature necklace, gold hoop earrings and The Laurent ring.
+- Polished black heels and refined accessories.
+- Sophisticated, controlled, commanding presence.
 
-Age-specific visual characteristics:
-- mature but youthful facial structure
-- naturally defined cheekbones
-- subtle expression lines around the eyes and forehead
-- realistic skin texture
-- no exaggerated wrinkles
-- no artificially smoothed young skin
-- no overly aged features
-- natural variation in skin tone and texture
-- realistic neck and hand anatomy appropriate to her age
+Post-Collapse:
+- Black practical cropped/utility top and rugged dark field trousers.
+- Layered tactical belts, thigh straps, durable boots and weathered outerwear.
+- Survival-ready, physically capable silhouette.
+- Preserve the approved face, eyes, hair identity and scar while showing believable wear, dirt, damage and environmental weathering.
 
-Her age must remain visually consistent across pre-Collapse, early-Collapse, later-survival, cinematic, gameplay, exhausted, injured, weathered and well-rested states.
+### 4. APPROVED ACCESSORIES, GEAR AND WEAPONS
+The character sheet depicts:
+- Signature necklace.
+- Gold hoop earrings.
+- The Laurent ring.
+- Leather bracelet.
+- Tactical belt.
+- Field communicator.
+- Survival pack.
+- Dark shades.
+- Custom pistol named "Heirloom".
+- Combat knife named "Whisper".
 
-IMPORTANT: Do not make Mara look 25, 28, 30, 45 or 50. Her final 3D appearance must consistently communicate 38 years old.
+These are approved visual design references. Their exact narrative ownership, use, availability and continuity must still follow the relevant story, inventory and gameplay documents.
 
-### 2. AGE + CHARACTER PRESENCE
-At 38, Mara should have the presence of an established adult rather than a young protagonist. Her authority should feel earned.
+### 5. PERSONALITY AND CHARACTER PRESENCE
+Mara is highly intelligent, a natural leader, calculated and resourceful, fiercely protective and emotionally guarded. Her strengths include strategic thinking, crisis management, combat skill, charisma and adaptability. Her weaknesses include trust issues, survivor's guilt, difficulty with vulnerability and a tendency to sacrifice herself for others.
 
-She carries herself like someone who has accumulated substantial life experience, understands responsibility, reads people well, can make difficult decisions, remains physically capable and does not need to prove her strength constantly.
+Approved signature line:
+“I don't follow orders. I build legacies.”
 
-Her age contributes to her elegance. She should look mature, attractive, capable and distinctly human. Do not interpret age as older-looking. Mara is 38, not elderly. Her beauty remains strong and natural, with maturity adding character rather than diminishing it.
+Known for turning impossible odds into survival and building systems where chaos once ruled.
 
-### 3. PHYSICAL APPEARANCE
-Build: Medium-tall, sturdy athletic frame.  
-Height: Approximately 5'8"–5'9" / 173–175 cm.  
-Face: Broad oval, defined cheekbones, straight nose, slightly hooded dark-brown eyes.  
-Hair: Dense natural coils, commonly twists or a wrapped protective style.  
-Recognition anchors: Thin pale scar across right eyebrow; weathered brass key ring at belt.  
-Silhouette: Grounded, upright, capable; strong shoulders without exaggerated musculature.
+### 6. PRODUCTION REQUIREMENTS
+- The approved character sheet overrides all previous Mara visual references.
+- Use the image as the identity anchor for every new image, render, portrait, turnaround and 3D model.
+- Preserve the same face and recognizable identity across both timelines.
+- Create clean high-resolution front, side, back and three-quarter references from this approved design before final Blender modelling.
+- Do not revert to the former 38-year-old design or its former face/hair/body/wardrobe specifications.
+- Any future visual change requires explicit user approval.
+- Treat the uploaded sheet as the master reference, not as a final production-ready 3D asset.
 
-### 4. WARDROBE EVOLUTION
-Pre-Collapse: Structured workwear, long coats, practical tailored pieces.  
-Early-Collapse: Durable trousers, field jacket, practical knit layers.  
-Later-survival: Repaired wool, layered utility clothing, field jacket, gloves and weatherproof boots.  
-
-Wardrobe must communicate leadership through construction, fit and practicality rather than superhero styling.
+t and practicality rather than superhero styling.
 
 ---
 
