@@ -13,6 +13,7 @@ This is not a conventional hero story, military shooter, or linear survival camp
 The game combines:
 
 - cinematic third-person gameplay
+- optional cinematic third-person VR mode with headset-tracked viewing
 - exploration and navigation
 - survival and resource management
 - investigation and environmental storytelling
@@ -390,6 +391,7 @@ RIDE-or-DIE/
 │   ├── WORLD-VISUAL-DESCRIPTIONS.md
 │   └── WORLD-VISUAL-REALISM-BIBLE.md
 ├── TECHNICAL/                      # Engineering architecture and implementation specifications
+│   └── VR/                          # Cinematic third-person VR integration architecture
 ├── WEB-PROTOTYPE/                  # Playable web prototype application
 ├── backend/                        # Backend security implementation
 ├── frontend/                       # Frontend security client code
@@ -411,7 +413,7 @@ The final game is being planned as a real 3D game rather than a web-only experie
 
 **Unity + C# + GitHub + production asset pipeline + Android build pipeline**
 
-Unity is the intended practical production engine for the full mobile game, with development designed around mobile performance from the beginning.
+Unity is the intended practical production engine for the full mobile game, with development designed around mobile performance from the beginning. An optional cinematic third-person VR mode is also specified under TECHNICAL/VR; it will share the same game systems and story canon while using a separate XR camera, interaction and comfort layer. The target headset and release timing remain open decisions pending hardware selection and profiling.
 
 The existing Hatchable project remains useful as a playable web prototype, narrative/UX testing environment and rapid experimentation layer. It is not treated as the final production engine for the complete cinematic Android game.
 
