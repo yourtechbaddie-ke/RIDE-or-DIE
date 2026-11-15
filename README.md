@@ -367,21 +367,37 @@ The project is now moving from architecture/design definition into actual produc
 
 ## 📚 Repository Structure
 
+The repository separates narrative chapters, character canon, production specifications, engineering references and the playable web prototype.
+
 ```text
 RIDE-or-DIE/
-│
-├── GAME-DESIGN/          # Core gameplay systems, mechanics and player experience
-├── LORE/                 # World history, mysteries, factions and canon
-├── CHARACTERS/           # Character dossiers, visual identity and relationships
-├── CHAPTERS/             # Chapter-by-chapter narrative and gameplay structure
-├── UX/                   # Player experience, interface and interaction design
-├── TECHNICAL/            # Engineering architecture and implementation specifications
-├── PRODUCTION/           # Production layers, bibles, QA and master locks
-├── AUDIO/                # Audio, music, voice and environmental sound architecture
-└── README.md             # Project overview and production entry point
+├── AUDIO/                         # Audio asset descriptions and chapter audio production
+├── CHARACTERS/
+│   └── MASTER-CAST/
+│       ├── CONCEPT-ART/
+│       │   ├── MARA/
+│       │   └── REY/
+│       ├── DOSSIERS/               # Individual named-character profiles
+│       ├── SYSTEMS/                # Cast registry, relationships and autonomy
+│       └── README.md               # Master-cast architecture
+├── CHAPTERS/
+│   ├── CHAPTER-01/                 # The Last Normal Day and Chapter 1 state/dialogue
+│   ├── CHAPTER-02/                 # Hollowgate and Chapter 2 layers
+│   └── CHAPTER-03/                 # Collapse and subsequent Chapter 3 layers
+├── PRODUCTION/
+│   ├── SEASON-1/                   # Layers 100–120, visual/audio bibles and production locks
+│   └── [world and build specifications]
+├── TECHNICAL/                      # Engineering architecture and implementation specifications
+├── WEB-PROTOTYPE/                  # Playable web prototype application
+├── backend/                        # Backend security implementation
+├── frontend/                       # Frontend security client code
+├── SECURITY.md                     # Repository security policy
+└── README.md                       # Project overview and production entry point
 ```
 
-The repository is the **canonical source of truth for RIDE OR DIE production decisions**.
+The current chapter folders contain all 88 chapter documents, grouped by their chapter designation. Character concept art, character dossiers and cast-system documents are separated into their own folders.
+
+The repository is the **canonical source of truth for RIDE OR DIE production decisions**. The structure above reflects folders that currently exist; future GAME-DESIGN, LORE or UX folders should only be added when their dedicated documents are ready to live there.
 
 ---
 
