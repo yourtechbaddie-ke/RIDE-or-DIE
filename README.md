@@ -386,7 +386,9 @@ RIDE-or-DIE/
 │   └── CHAPTER-03/                 # Collapse and subsequent Chapter 3 layers
 ├── PRODUCTION/
 │   ├── SEASON-1/                   # Layers 100–120, visual/audio bibles and production locks
-│   └── [world and build specifications]
+│   ├── NEW-GAME-BUILD.md           # Production build specification
+│   ├── WORLD-VISUAL-DESCRIPTIONS.md
+│   └── WORLD-VISUAL-REALISM-BIBLE.md
 ├── TECHNICAL/                      # Engineering architecture and implementation specifications
 ├── WEB-PROTOTYPE/                  # Playable web prototype application
 ├── backend/                        # Backend security implementation
