@@ -33,7 +33,7 @@ Character voices should remain naturalistic. Avoid theatrical horror delivery ex
 Performance direction: controlled, tired, increasingly uncertain. The player should hear the character trying to remain rational.
 
 ### Mara
-Performance direction: practical, protective, exhausted. Authority without military caricature.
+Canonical age: **29 years old**. Voice identity: adult woman in her late twenties; natural British English; warm, low-to-mid feminine register with a subtle husk. Delivery is measured, clear, grounded and authoritative, with compassion beneath emotional restraint. Performance direction: practical, protective and sometimes exhausted. Preserve her intelligence and resolve without making her sound 38 or artificially older; authority without military caricature.
 
 ### Jace
 Performance direction: defensive, blunt, emotionally compressed. His distrust should feel earned rather than villainous.
