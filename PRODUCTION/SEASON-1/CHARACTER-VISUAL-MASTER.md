@@ -75,6 +75,12 @@ Alignment: Chaotic Good
 Status: Alive
 Universe: Ride or Die
 
+### VOICE AND PERFORMANCE CONTINUITY
+- Canonical age: **29**. Any voice direction or generated performance must represent Mara as a 29-year-old adult woman, not 38 and not artificially aged.
+- Voice: natural British English; warm, low-to-mid feminine register with a subtle husk.
+- Delivery: measured, clear, grounded and authoritative, with compassion beneath emotional restraint.
+- Performance should communicate intelligence, resolve and lived experience without making her sound older than her canonical age.
+
 ### 2. OFFICIAL VISUAL APPEARANCE
 The approved character sheet is authoritative for Mara's appearance. It depicts:
 - A striking adult woman with warm medium-to-deep brown skin and defined facial structure.
