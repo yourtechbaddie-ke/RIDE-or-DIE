@@ -1,0 +1,23 @@
+{
+  "name": "ride-or-die",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "dev": "vite WEB-PROTOTYPE --host 0.0.0.0",
+    "build": "vite build WEB-PROTOTYPE",
+    "preview": "vite preview WEB-PROTOTYPE --host 0.0.0.0",
+    "start": "node WEB-PROTOTYPE/server/index.js",
+    "server:dev": "node --watch WEB-PROTOTYPE/server/index.js"
+  },
+  "dependencies": {
+    "cors": "2.8.5",
+    "express": "4.21.2",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "vite": "6.4.1"
+  }
+}
