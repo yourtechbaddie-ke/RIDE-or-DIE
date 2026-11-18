@@ -49,6 +49,7 @@ The production target is a persistent living world containing:
 - branching decisions
 - persistent world state
 - permanent death and continuation through other living perspectives
+- data-driven hazards and threat responses covering transport, fire/smoke, structural danger, exposure, survival deprivation, injury/medical complications, human threats and cascading infrastructure failure
 - evolving settlements and routes
 - dynamic environmental conditions
 - cinematic sequences
@@ -376,6 +377,8 @@ The production stack covers:
 - Layer 118 — Cinematics & Camera Language
 - Layer 119 — QA, Continuity & Branch Testing
 - Layer 120 — Complete Season 1 Production Lock
+
+The supplementary hazard specification at PRODUCTION/SEASON-1/HAZARD-AND-THREAT-SYSTEM.md operationalizes the existing death/injury, survival-loop, NPC and persistence architecture without renumbering or reopening Layers 100–120.
 
 These layers are the production architecture. This file provides the practical build overview that sits above them.
 
