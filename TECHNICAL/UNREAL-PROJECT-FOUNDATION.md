@@ -1,3 +1,7 @@
+> **ARCHIVED / SUPERSEDED — DO NOT USE FOR CURRENT IMPLEMENTATION.** The production engine was changed to Unity 6 + C#. This document is retained only as historical reference. Follow `TECHNICAL/UNITY/ENGINE-DECISION.md`, `TECHNICAL/UNITY/UNITY-PROJECT-STRUCTURE.md` and `TECHNICAL/IMPLEMENTATION-ROADMAP.md` instead.
+
+---
+
 # Ride or Die — Unreal Project Foundation
 
 ## Purpose
