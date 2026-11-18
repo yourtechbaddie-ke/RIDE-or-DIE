@@ -4,6 +4,12 @@
 
 Death is permanent in RIDE OR DIE, but death does not reset the player's experience. Injury and death are part of the living-world simulation and must create consequences rather than game-over repetition.
 
+The detailed hazard sources, warning, implementation and test requirements are defined in:
+
+PRODUCTION/SEASON-1/HAZARD-AND-THREAT-SYSTEM.md
+
+This layer remains the authority for injury states, recovery, death, continuation and continuity. The supplementary hazard specification explains how hazards feed into this system; it does not replace the rules below.
+
 ## 1. Injury States
 
 Characters can experience temporary or persistent conditions such as:
@@ -22,7 +28,24 @@ Characters can experience temporary or persistent conditions such as:
 
 Presentation should remain grounded and non-gratuitous.
 
-## 2. Recovery
+Injury must be caused by a plausible event or condition. Severity and progression depend on the source, exposure, character condition, treatment, medical access, supplies, shelter, rest, skills and time. Injury is not automatically death.
+
+## 2. Sources of Danger
+
+Hazards may arise from:
+
+- traffic collisions and vehicle failures;
+- fire, smoke, burns and heat;
+- unstable structures, falling debris, falls and unsafe traversal;
+- weather and environmental exposure;
+- dehydration, starvation, exhaustion, unsafe food/water and sanitation-related illness;
+- untreated wounds, blood loss and medical complications;
+- human conflict, coercion, theft, violence, deception and abandonment;
+- cascading infrastructure failures that create secondary dangers.
+
+The region, chapter, character and situation determine which hazards are appropriate. Do not place every hazard everywhere. Chapter 1 follows its approved highway collision, wreck, fire/smoke and trapped-survivor sequence. ECHO is not a conventional enemy or generic cause of damage.
+
+## 3. Recovery
 
 Recovery depends on:
 
@@ -37,7 +60,9 @@ Recovery depends on:
 
 Recovery can affect movement, work, relationships and decisions.
 
-## 3. Death Is Permanent
+Conditions should be able to stabilize, improve or deteriorate. Avoid arbitrary instant death from a single depleted survival meter. Communicate serious danger through contextual UI, animation, audio and character behavior.
+
+## 4. Death Is Permanent
 
 When a named character dies:
 
@@ -50,7 +75,9 @@ When a named character dies:
 - their unfinished responsibilities may transfer
 - their death can alter future opportunities
 
-## 4. No Full Restart
+The game records a persistent death state and, where known, cause, time and location.
+
+## 5. No Full Restart
 
 If the current playable perspective dies, the player continues through another living thread when the game's continuation structure permits it.
 
@@ -58,7 +85,7 @@ This is not a replacement-protagonist system. There is no protagonist hierarchy.
 
 The player is accessing another life already existing in the world.
 
-## 5. Perspective Transition
+## 6. Perspective Transition
 
 Transitions should establish the new playable perspective naturally through:
 
@@ -71,7 +98,7 @@ Transitions should establish the new playable perspective naturally through:
 
 The player should understand that the previous life ended while the world continued.
 
-## 6. Death Consequences
+## 7. Death Consequences
 
 A death may affect:
 
@@ -90,13 +117,13 @@ A death may affect:
 
 No death should be treated as meaningless simply because the player can continue elsewhere.
 
-## 7. Elderly Characters & Natural Death
+## 8. Elderly Characters & Natural Death
 
 Established elderly characters may die of natural causes when their age, health and timeline make it believable.
 
-Natural death should never be used as a random punishment. It is part of the world continuing beyond the player's preferred outcome.
+Natural death should never be used as a random punishment. It is part of the world continuing beyond the player's preferred outcome. Do not use natural death as a generic removal mechanic for young or healthy characters.
 
-## 8. Young Characters & Aging
+## 9. Young Characters & Aging
 
 Season 1 does not require young characters to become dramatically older within the primary 12–18 month timeline.
 
@@ -104,7 +131,7 @@ Where later life-stage states are required, characters retain recognizable ident
 
 Tariq St. Patrick is a special continuity case: his recognizable facial features, including his dimples, remain important across age states. A later teenage Tariq must clearly read as the same person.
 
-## 9. Rey & Tariq Continuity
+## 10. Rey & Tariq Continuity
 
 Rey's eventual biological connection to Tariq must remain compatible with the death, injury and world-state systems.
 
@@ -112,7 +139,7 @@ Rey's instinctive closeness to Tariq before the reveal can emerge naturally thro
 
 The truth that Tariq was taken from Rey immediately after birth and raised by wealthy adoptive parents should remain a concealed historical fact until the intended revelation.
 
-## 10. No Cheap Emotional Protection
+## 11. No Cheap Emotional Protection
 
 Characters are not protected because they are:
 
@@ -129,6 +156,6 @@ Characters are not protected because they are:
 
 Survival remains uncertain, while choices and world-state consequences remain meaningful.
 
-## 11. Canonical Rule
+## 12. Canonical Rule
 
 > In RIDE OR DIE, death ends a life — not the world's story.
