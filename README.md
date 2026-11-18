@@ -25,6 +25,7 @@ The game combines:
 - branching choices and persistent consequences
 - autonomous NPC behavior
 - permanent death and playable continuation
+- grounded hazards and threats: traffic collisions, fire/smoke, structural danger, weather/exposure, survival deprivation, medical complications, human conflict and cascading infrastructure failures
 - evolving settlements and routes
 - character aging and life-stage progression
 - mysterious ECHO manifestations
@@ -170,6 +171,14 @@ Their relationships, possessions, family, reputation, unfinished business, settl
 A death is therefore a **world event**, not a reload screen.
 
 > **The world remembers the loss.**
+
+---
+
+## ⚠️ Hazards, Injury & Threats
+
+Survival danger comes from a breaking world and human decisions—not a generic monster or zombie outbreak. Characters can face traffic collisions, fire and smoke, unstable structures, falls, weather and exposure, dehydration, starvation, exhaustion, unsafe food or water, untreated injuries, medical complications, infrastructure failures and human threats such as coercion, theft, deception, abandonment and violence. Hazards must be contextual, observable where practical and consequential. Injury can be treated, stabilized, worsen or recover; death remains permanent and changes the world.
+
+The implementation specification is [HAZARD-AND-THREAT-SYSTEM.md](PRODUCTION/SEASON-1/HAZARD-AND-THREAT-SYSTEM.md). It supplements Layer 114 and the existing survival architecture. Chapter 1 retains its approved highway disaster sequence and does not introduce zombies, monsters or an ECHO enemy.
 
 ---
 
