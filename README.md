@@ -669,3 +669,14 @@ When a detailed canon document conflicts with an outdated description elsewhere,
 **Production Architecture: LOCKED**  
 **Current Canon: Layer 120 / 120**  
 **Current Focus: Full game implementation and asset production**
+
+
+## 🧰 Development entry points
+
+- **AI development instructions:** [ANTIGRAVITY-START-HERE.md](ANTIGRAVITY-START-HERE.md)
+- **Canonical engine decision:** [TECHNICAL/UNITY/ENGINE-DECISION.md](TECHNICAL/UNITY/ENGINE-DECISION.md) — Unity 6 + C#; historical Unreal documents are archived.
+- **Unity project structure:** [TECHNICAL/UNITY/UNITY-PROJECT-STRUCTURE.md](TECHNICAL/UNITY/UNITY-PROJECT-STRUCTURE.md)
+- **Implementation roadmap:** [TECHNICAL/IMPLEMENTATION-ROADMAP.md](TECHNICAL/IMPLEMENTATION-ROADMAP.md)
+- **Hazards and threats:** [PRODUCTION/SEASON-1/HAZARD-AND-THREAT-SYSTEM.md](PRODUCTION/SEASON-1/HAZARD-AND-THREAT-SYSTEM.md)
+
+The root repository also contains a separate React/Vite web prototype. It is not the Unity game runtime. The Unity Editor project should be maintained under `UnityProject/` once safely initialized or synchronized. Never point the root Vercel deployment at the Unity project.
